@@ -1,6 +1,6 @@
 local Animate = game.Players.LocalPlayer.Character.Animate
-Animate.walk.WalkAnim.AnimationId = "http://www.roblox.com/asset/?id=91892322616824"
-Animate.run.RunAnim.AnimationId = "http://www.roblox.com/asset/?id=91892322616824"
+Animate.walk.WalkAnim.AnimationId = "http://www.roblox.com/asset/?id=94198749485681"
+Animate.run.RunAnim.AnimationId = "http://www.roblox.com/asset/?id=94198749485681"
 Animate.idle.Animation1.AnimationId = "http://www.roblox.com/asset/?id=73060676441415"
 Animate.idle.Animation2.AnimationId = "http://www.roblox.com/asset/?id=73060676441415"
 Animate.jump.JumpAnim.AnimationId = "http://www.roblox.com/asset/?id=1113752285"

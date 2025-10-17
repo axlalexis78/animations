@@ -7,4 +7,4 @@ Animate.jump.JumpAnim.AnimationId = "http://www.roblox.com/asset/?id=91478712085
 Animate.fall.FallAnim.AnimationId = "http://www.roblox.com/asset/?id=75020966076281"
 Animate.climb.ClimbAnim.AnimationId = "http://www.roblox.com/asset/?id=102778028103095"
  
-game.Players.LocalPlayer.Character.Humanoid.Jump = false
+game.Players.LocalPlayer.Character.Humanoid.Jump = true

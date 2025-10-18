@@ -4,7 +4,7 @@ Animate.run.RunAnim.AnimationId = "http://www.roblox.com/asset/?id=9314454550166
 Animate.idle.Animation1.AnimationId = "http://www.roblox.com/asset/?id=81253639230607"
 Animate.idle.Animation2.AnimationId = "http://www.roblox.com/asset/?id=81253639230607"
 Animate.jump.JumpAnim.AnimationId = "http://www.roblox.com/asset/?id=87911577991078"
-Animate.fall.FallAnim.AnimationId = "http://www.roblox.com/asset/?id=75020966076281"
+Animate.fall.FallAnim.AnimationId = "http://www.roblox.com/asset/?id=79415545851251"
 Animate.climb.ClimbAnim.AnimationId = "http://www.roblox.com/asset/?id=102778028103095"
  
 game.Players.LocalPlayer.Character.Humanoid.Jump = true

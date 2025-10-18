@@ -3,7 +3,7 @@ Animate.walk.WalkAnim.AnimationId = "http://www.roblox.com/asset/?id=93144545501
 Animate.run.RunAnim.AnimationId = "http://www.roblox.com/asset/?id=93144545501660"
 Animate.idle.Animation1.AnimationId = "http://www.roblox.com/asset/?id=81253639230607"
 Animate.idle.Animation2.AnimationId = "http://www.roblox.com/asset/?id=81253639230607"
-Animate.jump.JumpAnim.AnimationId = "http://www.roblox.com/asset/?id=116822671359371"
+Animate.jump.JumpAnim.AnimationId = "http://www.roblox.com/asset/?id=87911577991078"
 Animate.fall.FallAnim.AnimationId = "http://www.roblox.com/asset/?id=79415545851251"
 Animate.climb.ClimbAnim.AnimationId = "http://www.roblox.com/asset/?id=102778028103095"
  
